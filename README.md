@@ -28,8 +28,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thekayn&repo=coffeemachine&theme=dracula" />
 </a>
 
-https://github.com/thekayn/coffeemachine
-
 ***
 
 - **Principais Linguagens:**
