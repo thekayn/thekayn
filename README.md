@@ -1,8 +1,8 @@
-### Eae, me chamo Caio Henrique, sou estudante e entusiasta no desenvolvimento de projetos elétricos, automação (CLP, hidraulica e pneumatica), sistemas eletrônicos embarcados e gestão de manutenção. 
-### Por influencia e necessidade, comecei a curtir bastante a area de software
+### Eae, me chamo Caio Henrique, sou estudante e entusiasta no desenvolvimento de projetos elétricos, automação (CLP, hidráulica e pneumática), sistemas eletrônicos embarcados e gestão de manutenção. 
+### Por influência e necessidade, comecei a curtir bastante a área de software
 
-- 🔭 Hoje em dia trabalho na area de automação industrial
-- 🌱 Estou para me formar em Eng. de Controle e Automação
+- 🔭 Hoje em dia trabalho na área de automação industrial;
+- 🌱 Estou para me formar em Eng. de Controle e Automação;
 - 🌱🌱 Alem da area de Eng. estou estudando algumas linguagens de programação, como C++, CSharp e SQL;
 - 📫 Para entrar em contato comigo: caioh.stefan@gmail.com
 
@@ -13,7 +13,7 @@
 
 ***
 
-- **Repositorios bacanas:**
+- **Repositórios bacanas:**
 
 <a href="https://github.com/thekayn/Embarcados">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thekayn&repo=Embarcados&theme=dracula" />
