@@ -24,7 +24,11 @@
 <a href="https://github.com/thekayn/Estudo_Csharp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thekayn&repo=Estudo_Csharp&theme=dracula" />
 </a>
+<a href="https://github.com/thekayn/coffeemachine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thekayn&repo=coffeemachine&theme=dracula" />
+</a>
 
+https://github.com/thekayn/coffeemachine
 
 ***
 
