@@ -30,7 +30,7 @@
 
 - **Principais Linguagens:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekayn&layout=compact&theme=dracula)](https://github.com/thekayn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekayn&layout=compact&theme=dracula)](https://github.com/thekayn?tab=repositories)
 
 ***
 
