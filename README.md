@@ -5,6 +5,7 @@
 - 🌱 Estou para me formar em Eng. de Controle e Automação;
 - 🌱🌱 Alem da area de Eng. estou estudando algumas linguagens de programação, como C++, CSharp e SQL;
 - 📫 Para entrar em contato comigo: caioh.stefan@gmail.com
+- 📫 Escrevo alguns artigos no Medium, se tiver interessado, segue lá 😊: https://medium.com/@caiohs 
 
 ***
 - **Segue o meu status no Github**
