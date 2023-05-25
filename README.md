@@ -8,26 +8,13 @@
 - 📫 Escrevo alguns artigos no Medium, se tiver interessado, segue lá 😊: https://medium.com/@caiohs 
 
 ***
-- **Segue o meu status no Github**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thekayn&show_icons=true&count_private=true&theme=dracula#gh-dark-mode-only)
-
-***
 
 - **Repositórios bacanas:**
 
-<a href="https://github.com/thekayn/Embarcados">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thekayn&repo=Embarcados&theme=dracula" />
-</a>
-<a href="https://github.com/thekayn/system-dynamics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thekayn&repo=system-dynamics&theme=dracula" />
-</a>
-<a href="https://github.com/thekayn/Estudo_Csharp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thekayn&repo=Estudo_Csharp&theme=dracula" />
-</a>
-<a href="https://github.com/thekayn/coffeemachine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thekayn&repo=coffeemachine&theme=dracula" />
-</a>
+- Embarcados (https://github.com/thekayn/Embarcados);
+- Sistemas Dinâmicos (https://github.com/thekayn/system-dynamics);
+- Estudo de CSharp (https://github.com/thekayn/Estudo_Csharp);
+- Coffeemachine (https://github.com/thekayn/coffeemachine).
 
 ***
 
@@ -39,8 +26,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
 <code><img height="20" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekayn&layout=compact&theme=dracula)](https://github.com/thekayn?tab=repositories)
 
 ***
 
